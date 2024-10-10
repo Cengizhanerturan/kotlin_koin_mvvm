@@ -1,4 +1,4 @@
-package com.gcyazilim.koincryptocrazy.view
+package com.gcyazilim.koincryptocrazy.view.adapter
 
 import android.graphics.Color
 import android.view.LayoutInflater

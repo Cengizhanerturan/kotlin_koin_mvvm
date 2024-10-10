@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/listFragment"
-        android:name="com.gcyazilim.koincryptocrazy.view.ListFragment"
+        android:name="com.gcyazilim.koincryptocrazy.view.fragment.ListFragment"
         android:label="fragment_list"
         tools:layout="@layout/fragment_list" />
 </navigation>
